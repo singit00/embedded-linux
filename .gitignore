@@ -1,0 +1,21 @@
+# CMake Build
+/build/
+/cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Compiled files
+*.o
+*.a
+*.so
+
+# Executables
+*.out
+
+# Editor temporary files
+*.swp
+*~
